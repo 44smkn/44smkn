@@ -4,4 +4,5 @@
 * Blog:   [1クール続けるブログ](https://44smkn.hatenadiary.com/archive) 
   * I research and document technical topics that interest me.
   * I also write articles about my hobbies on rare occasions.
-* Booklog: [44smkn](https://booklog.jp/users/44smkn)
+* Read Track: [44smkn's Read Track](https://44smkn.github.io/read-track/)
+  * deprecated: [booklog](https://booklog.jp/users/44smkn)
